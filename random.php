@@ -54,7 +54,7 @@
   <body>
   test
      <p><?php echo $satz ?></p>
-     <div>hallo ... und der Rest</div>
+     <div>hallo ... und der Rest:</div>
      <ul>
       <?php foreach($students AS $kind) { ?>
         <li><?php echo $kind; ?></li>
